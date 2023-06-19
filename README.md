@@ -1,3 +1,5 @@
+## WARNING: This repo was moved to be a part of the main [Awardwiz](https://github.com/lg/awardwiz) repo!
+
 # Creating new scrapers
 
 ### Example template
