@@ -1,3 +1,5 @@
+## WARNING: This repo was moved to be a part of the main [Awardwiz](https://github.com/lg/awardwiz/blob/master/arkalis/README.md) repo!
+
 <center>
 <img src="arkalis.png" width="50%" />
 
